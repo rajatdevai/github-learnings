@@ -16,3 +16,6 @@ function forAmanBranch(){
 function commit1(){
     console.log("commit 1 done")
 }
+function commit2(){
+    console.log("commit 2 done")
+}
