@@ -7,3 +7,6 @@ function sayMyName(){
 function isAbove18(){
     return age >= 18;
 }
+function forNewBranch(){
+    console("Pushing on new branch")
+}
