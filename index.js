@@ -13,3 +13,6 @@ function forNewBranch(){
 function forAmanBranch(){
     console.log("for Aman branch")
 }
+function commit1(){
+    console.log("commit 1 done")
+}
