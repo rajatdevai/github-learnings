@@ -10,3 +10,6 @@ function isAbove18(){
 function forNewBranch(){
     console("Pushing on new branch")
 }
+function forAmanBranch(){
+    console.log("for Aman branch")
+}
